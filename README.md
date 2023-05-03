@@ -19,7 +19,7 @@
 <h3 align="center">react.dev</h3>
 
   <p align="center">
-    The code snippets of the Learn section of the react.dev website documentation, which is implemented with TypeScript 
+    The TypeScript code snippets of the Learn section of the react.dev website documentation
     <br />
     <a href="https://github.com/SMReact/react.dev/wiki"><strong>Explore the docs »</strong></a>
     <br />
